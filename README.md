@@ -1,2 +1,2 @@
 # Escape
-I developed a video game called Escape using Python, designed to challenge players' reflexes and strategic thinking.
+I developed a video game called Escape using Python, designed to challenge players' reflexes and strategic thinking. In this game, players must navigate through a dynamic environment filled with randomly generated enemy objects that they must dodge to survive. The core mechanics of Escape involve a mix of fast-paced action and careful maneuvering, providing an engaging and immersive experience. Players earn points based on their survival time and the number of enemy objects they successfully avoid, adding a competitive element to the game.
